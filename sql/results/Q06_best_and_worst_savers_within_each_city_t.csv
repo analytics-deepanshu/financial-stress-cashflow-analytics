@@ -1,0 +1,19 @@
+city_tier,grp,customer_id,occupation_type,savings_rate
+Tier 1,Top 3,C0050,Salaried,0.462
+Tier 1,Top 3,C0009,Salaried,0.461
+Tier 1,Top 3,C0032,Salaried,0.454
+Tier 1,Bottom 3,C0079,Student,-0.182
+Tier 1,Bottom 3,C0052,Student,-0.221
+Tier 1,Bottom 3,C0061,Student,-0.258
+Tier 2,Top 3,C0102,Salaried,0.475
+Tier 2,Top 3,C0110,Salaried,0.399
+Tier 2,Top 3,C0084,Salaried,0.368
+Tier 2,Bottom 3,C0076,Salaried,-0.080
+Tier 2,Bottom 3,C0028,Student,-0.122
+Tier 2,Bottom 3,C0011,Salaried,-0.255
+Tier 3,Top 3,C0105,Salaried,0.472
+Tier 3,Top 3,C0088,Salaried,0.443
+Tier 3,Top 3,C0018,Salaried,0.440
+Tier 3,Bottom 3,C0040,Salaried,0.089
+Tier 3,Bottom 3,C0097,Student,-0.127
+Tier 3,Bottom 3,C0019,Freelancer/Gig,-0.187

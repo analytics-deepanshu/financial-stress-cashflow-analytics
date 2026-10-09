@@ -1,0 +1,26 @@
+category,spend_type,income_expense,spend_type_sort,is_essential
+Borrowing,Not Spend,Borrowing,5,0
+Cash Withdrawal,Discretionary,Expense,3,0
+Debt Repayment,Fixed Obligation,Expense,1,1
+Dining Out,Discretionary,Expense,3,0
+Education,Essential Variable,Expense,2,1
+Entertainment,Discretionary,Expense,3,0
+Family Support,Not Spend,Income,5,0
+Food Delivery,Discretionary,Expense,3,0
+Freelance Income,Not Spend,Income,5,0
+Gifts & Festivals,Discretionary,Expense,3,0
+Groceries,Essential Variable,Expense,2,1
+Healthcare,Essential Variable,Expense,2,1
+Housing,Fixed Obligation,Expense,1,1
+Insurance,Fixed Obligation,Expense,1,1
+Interest,Not Spend,Income,5,0
+Investments,Investment,Investment,4,0
+Loan EMI,Fixed Obligation,Expense,1,1
+Part-time Income,Not Spend,Income,5,0
+Personal Care,Discretionary,Expense,3,0
+Salary,Not Spend,Income,5,0
+Shopping,Discretionary,Expense,3,0
+Subscriptions,Discretionary,Expense,3,0
+Transport,Essential Variable,Expense,2,1
+Travel,Discretionary,Expense,3,0
+Utilities,Essential Variable,Expense,2,1

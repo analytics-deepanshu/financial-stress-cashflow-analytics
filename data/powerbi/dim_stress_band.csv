@@ -1,0 +1,5 @@
+stress_band,band_sort,score_min,score_max,band_color
+Low,1,0.0,30,#0CA30C
+Moderate,2,30.1,60,#FAB219
+High,3,60.1,80,#EC835A
+Critical,4,80.1,100,#D03B3B

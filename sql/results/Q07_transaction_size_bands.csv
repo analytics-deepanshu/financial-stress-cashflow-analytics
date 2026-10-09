@@ -1,0 +1,6 @@
+size_band,n_transactions,pct_of_transactions,total_amount,pct_of_value,avg_amount
+1. Micro (<500),5991,15.8,1749391,1.6,292
+2. Small (500-2K),18004,47.5,19952935,18.7,1108
+3. Medium (2K-10K),12207,32.2,48377753,45.3,3963
+4. Large (10K-50K),1586,4.2,29549853,27.7,18632
+5. Very large (50K+),94,0.2,7074461,6.6,75260

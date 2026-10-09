@@ -1,0 +1,11 @@
+customer_id,occupation_type,income_growth_pct,expense_growth_pct,gap_pct_points,stress_band
+C0017,Salaried,5.3,30.2,25.0,Moderate
+C0085,Salaried,4.3,27.4,23.1,Critical
+C0090,Salaried,8.4,30.7,22.3,Moderate
+C0037,Salaried,9.4,30.9,21.5,Moderate
+C0016,Salaried,10.9,31.6,20.7,Moderate
+C0041,Salaried,9.4,29.1,19.7,Moderate
+C0117,Salaried,8.2,27.7,19.5,Low
+C0087,Salaried,8.5,26.2,17.7,Moderate
+C0070,Salaried,11.1,28.7,17.6,Moderate
+C0073,Salaried,6.4,22.9,16.5,Low

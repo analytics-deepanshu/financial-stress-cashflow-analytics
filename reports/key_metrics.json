@@ -1,0 +1,156 @@
+{
+  "total_income": 131809522.88999999,
+  "total_expenses": 106704392.94000001,
+  "portfolio_savings_rate": 0.19046522132510244,
+  "worst_month": "2024-12",
+  "worst_month_savings_rate": 0.12399815364806856,
+  "best_month": "2025-02",
+  "best_month_savings_rate": 0.2732967733411742,
+  "top_categories": [
+    {
+      "category": "Groceries",
+      "share": 0.22386808698149932
+    },
+    {
+      "category": "Housing",
+      "share": 0.15111280384741768
+    },
+    {
+      "category": "Loan EMI",
+      "share": 0.11600407123781908
+    },
+    {
+      "category": "Shopping",
+      "share": 0.09710338454224844
+    },
+    {
+      "category": "Transport",
+      "share": 0.08479612170314081
+    }
+  ],
+  "spend_type_share": {
+    "Discretionary": 0.2907,
+    "Essential Variable": 0.4222,
+    "Fixed Obligation": 0.2871
+  },
+  "festive_uplift": 0.13139775654857844,
+  "savings_rate_by_occupation": {
+    "Freelancer/Gig": 0.0555,
+    "Salaried": 0.1502,
+    "Student": -0.1603
+  },
+  "savings_rate_by_tier": {
+    "Tier 1": 0.0918,
+    "Tier 2": 0.1182,
+    "Tier 3": 0.2282
+  },
+  "share_customers_negative_savings": 0.23333333333333334,
+  "median_income_cv_by_occupation": {
+    "Freelancer/Gig": 0.469,
+    "Salaried": 0.103,
+    "Student": 0.168
+  },
+  "weekend_uplift_total": 0.4704458721166491,
+  "weekend_uplift_by_category": {
+    "Travel": 1.046,
+    "Gifts & Festivals": 1.023,
+    "Food Delivery": 0.731,
+    "Education": 0.718,
+    "Personal Care": 0.683
+  },
+  "upi_share_micro": 0.5477905073649755,
+  "upi_share_large": 0.3773809523809524,
+  "payment_method_count_share": {
+    "UPI": 0.6239,
+    "Credit Card": 0.1367,
+    "Debit Card": 0.0802,
+    "UPI Autopay": 0.0579,
+    "Auto-Debit (NACH)": 0.0445,
+    "ATM/Cash": 0.0271
+  },
+  "top5_merchant_share": 0.21845268767623627,
+  "top10_merchant_share": 0.37226915346417955,
+  "n_merchants": 77,
+  "top_merchants": {
+    "Swiggy": 0.0538,
+    "Zomato": 0.0526,
+    "Metro Card Recharge": 0.0465,
+    "DMart": 0.033,
+    "Reliance Smart": 0.0326
+  },
+  "median_customer_top3_merchant_share": 0.2531930403651568,
+  "recurring_share_of_expenses": 0.38216843774117254,
+  "share_customers_foir_above_50": 0.15,
+  "median_foir": 0.1980064540324766,
+  "avg_expense_txn_value": 2816.7571126128505,
+  "median_expense_txn_value": 1397.17,
+  "band_counts": {
+    "Low": 72,
+    "Moderate": 35,
+    "High": 12,
+    "Critical": 1
+  },
+  "mean_stress_score": 26.3275,
+  "top_drivers_high_critical": {
+    "savings_margin": 11,
+    "emergency_buffer": 1,
+    "fixed_obligations": 1
+  },
+  "avg_contrib_high_critical": {
+    "Income instability": 3.81,
+    "Expense growth": 3.9,
+    "Balance trend": 6.73,
+    "Deficit borrowing": 9.49,
+    "Fixed obligations": 10.79,
+    "Emergency buffer": 16.92,
+    "Savings margin": 19.59
+  },
+  "forecast_month": "2025-10",
+  "forecast_tiers": {
+    "Low": 111,
+    "High": 6,
+    "Medium": 3
+  },
+  "forecast_total_shortfall": 21972.309999999998,
+  "forecast_seasonal_factor": 1.294,
+  "stress_by_occupation": {
+    "Freelancer/Gig": 41.6,
+    "Salaried": 21.6,
+    "Student": 56.6
+  },
+  "high_crit_share_by_occupation": {
+    "Freelancer/Gig": 0.222,
+    "Salaried": 0.083,
+    "Student": 0.167
+  },
+  "stress_by_loan": {
+    "false": 23.0,
+    "true": 30.2
+  },
+  "stress_by_tier": {
+    "Tier 1": 30.0,
+    "Tier 2": 25.9,
+    "Tier 3": 12.1
+  },
+  "borrowing_events": 91,
+  "customers_who_borrowed": 20,
+  "borrowing_total": 1000000.0,
+  "borrowing_source_share": {
+    "Instant Loan App": 0.44,
+    "Credit Card Cash Advance": 0.308,
+    "Borrowed from Family": 0.253
+  },
+  "repeat_borrow_rate_after_app_or_card": 0.8235294117647058,
+  "n_customers_app_or_card_borrowers": 17,
+  "creep_customers": 14,
+  "creep_customers_band": {
+    "Low": 8,
+    "Moderate": 4,
+    "High": 1,
+    "Critical": 1
+  },
+  "low_buffer_customers": 15,
+  "buffer_median": 5.102954813546695,
+  "high_crit_balance_share": 0.016660260215738347,
+  "high_crit_customer_share": 0.10833333333333334
+}

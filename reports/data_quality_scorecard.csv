@@ -1,0 +1,14 @@
+issue_type,injected,detected,detection_rate,value_restored_correctly
+category_variant,1629,1629,1.0,1.0
+payment_method_variant,1234,1234,1.0,1.0
+mixed_date_format,1234,1234,1.0,1.0
+merchant_formatting,823,818,0.9939246658566221,1.0
+amount_as_text,411,411,1.0,1.0
+missing_payment_method,411,411,1.0,0.7591240875912408
+exact_duplicate,411,411,1.0,
+missing_merchant,411,411,1.0,0.40389294403892945
+missing_category,411,411,1.0,1.0
+negative_amount,206,206,1.0,1.0
+near_duplicate_reposted,165,165,1.0,
+paise_unit_error,123,123,1.0,1.0
+future_date_year_typo,82,82,1.0,1.0

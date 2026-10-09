@@ -1,0 +1,39 @@
+# Synthetic data generator configuration
+# Change these values and re-run `python run_pipeline.py` to regenerate everything.
+
+seed: 42
+n_customers: 120
+start_date: "2024-10-01"     # first month of data (Indian festive season start)
+n_months: 12                 # Oct 2024 - Sep 2025
+
+# Share of customers per hidden persona (must sum to 1.0).
+# Personas are used ONLY to generate behaviour and to validate the stress score later.
+persona_mix:
+  stable_saver: 0.25
+  comfortable_spender: 0.20
+  emi_burdened: 0.15
+  irregular_earner: 0.15
+  lifestyle_creep: 0.10
+  shock_event: 0.10
+  student_early_career: 0.05
+
+# A customer borrows (credit line / family / instant-loan app) when a debit
+# would push the balance below this floor (INR).
+borrowing_floor: 1000
+
+# Data-quality issues injected into the RAW file (share of rows affected).
+# Every injected issue is logged in data/raw/injected_issues_log.csv
+dirty_data:
+  missing_category: 0.010
+  missing_merchant: 0.010
+  missing_payment_method: 0.010
+  exact_duplicates: 0.010
+  near_duplicates: 0.004        # same txn re-posted with a new transaction_id
+  category_case_variants: 0.050
+  payment_method_variants: 0.030
+  merchant_whitespace: 0.020
+  negative_amount_sign_error: 0.005
+  paise_unit_error: 0.003       # amount recorded in paise (x100)
+  amount_as_text: 0.010         # "₹1,250.00" stored as text
+  mixed_date_format: 0.030
+  year_typo_future_date: 0.002  # 2025 typed as 2052

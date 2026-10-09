@@ -1,0 +1,4 @@
+cashflow_risk_tier,tier_sort,rule,tier_color
+Low,1,P(deficit) < 20%,#0CA30C
+Medium,2,20% <= P(deficit) < 50%,#FAB219
+High,3,P(deficit) >= 50%,#D03B3B

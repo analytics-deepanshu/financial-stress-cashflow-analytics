@@ -1,0 +1,19 @@
+category,spend_type,amount,share
+Groceries,Essential Variable,23887708.32,0.22386808698149932
+Housing,Fixed Obligation,16124400.0,0.15111280384741768
+Loan EMI,Fixed Obligation,12378144.0,0.11600407123781908
+Shopping,Discretionary,10361357.7,0.09710338454224844
+Transport,Essential Variable,9048118.69,0.08479612170314081
+Food Delivery,Discretionary,7068455.99,0.06624334570718753
+Education,Essential Variable,4942398.38,0.04631860267251711
+Utilities,Essential Variable,4545176.7,0.0425959660588272
+Dining Out,Discretionary,3421071.64,0.032061207095041275
+Healthcare,Essential Variable,2629935.61,0.024646929123891045
+Travel,Discretionary,2353141.0,0.022052897122269127
+Cash Withdrawal,Discretionary,2109300.0,0.01976769598591936
+Personal Care,Discretionary,1837715.61,0.017222492526932323
+Entertainment,Discretionary,1685376.98,0.015794822814349258
+Insurance,Fixed Obligation,1431600.0,0.013416504799432112
+Gifts & Festivals,Discretionary,1361580.32,0.0127603023876029
+Subscriptions,Discretionary,820572.0,0.0076901426210391225
+Debt Repayment,Fixed Obligation,698340.0,0.006544622772866319

@@ -1,0 +1,5 @@
+size_band,n,upi_pct,upi_autopay_pct,credit_card_pct,debit_card_pct,nach_pct,bank_transfer_pct,cash_pct
+1. Micro (<500),6027,55.5,15.0,22.3,6.4,0.8,0.0,0.0
+2. Small (500-2K),18232,65.5,7.1,10.5,7.4,4.8,1.5,3.2
+3. Medium (2K-10K),12598,61.2,0.0,14.3,9.8,7.7,3.4,3.5
+4. Large (10K+),1956,32.4,0.0,5.6,3.3,36.7,21.7,0.3

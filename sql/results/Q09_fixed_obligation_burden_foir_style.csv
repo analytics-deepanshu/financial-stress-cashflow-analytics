@@ -1,0 +1,5 @@
+obligation_band,customers,pct_customers,avg_ratio_pct,avg_stress_score
+1. Comfortable (<30%),90,75.0,15.0,19.9
+2. Watch (30-40%),9,7.5,34.9,25.4
+3. Stretched (40-50%),3,2.5,46.2,54.3
+4. Over lender limit (50%+),18,15.0,63.9,54.4

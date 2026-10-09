@@ -1,0 +1,11 @@
+category,spend_type,n_transactions,total_spend,avg_ticket,share_of_spend_pct
+Groceries,Essential Variable,6355,23887708,3759,22.39
+Housing,Fixed Obligation,936,16124400,17227,15.11
+Loan EMI,Fixed Obligation,660,12378144,18755,11.60
+Shopping,Discretionary,2628,10361358,3943,9.71
+Transport,Essential Variable,6342,9048119,1427,8.48
+Food Delivery,Discretionary,6720,7068456,1052,6.62
+Education,Essential Variable,151,4942398,32731,4.63
+Utilities,Essential Variable,3644,4545177,1247,4.26
+Dining Out,Discretionary,1696,3421072,2017,3.21
+Healthcare,Essential Variable,1049,2629936,2507,2.46

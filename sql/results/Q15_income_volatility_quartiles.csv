@@ -1,0 +1,5 @@
+volatility_quartile,min_cv,max_cv,salaried,freelancer_gig,student,avg_stress_score
+1,0.024,0.049,30,0,0,26.6
+2,0.051,0.139,29,0,1,17.9
+3,0.145,0.227,25,0,5,27.7
+4,0.228,0.658,12,18,0,33.1

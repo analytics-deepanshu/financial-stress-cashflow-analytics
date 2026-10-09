@@ -1,0 +1,44 @@
+{
+  "name": "FinStress",
+  "dataColors": ["#2A78D6", "#EB6834", "#1BAF7A", "#EDA100", "#E87BA4", "#008300", "#4A3AA7", "#E34948"],
+  "background": "#FCFCFB",
+  "foreground": "#0B0B0B",
+  "tableAccent": "#2A78D6",
+  "good": "#0CA30C",
+  "neutral": "#FAB219",
+  "bad": "#D03B3B",
+  "maximum": "#184F95",
+  "center": "#F0EFEC",
+  "minimum": "#CDE2FB",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 13, "color": "#0B0B0B" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 11, "color": "#0B0B0B" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#52514E" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 26, "color": "#0B0B0B" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E1E0D9" } }, "radius": 6 }],
+        "visualHeader": [{ "show": false }],
+        "dropShadow": [{ "show": false }]
+      }
+    },
+    "page": {
+      "*": { "background": [{ "color": { "solid": { "color": "#F9F9F7" } }, "transparency": 0 }] }
+    },
+    "lineChart": {
+      "*": {
+        "lineStyles": [{ "strokeWidth": 2 }],
+        "valueAxis": [{ "gridlineColor": { "solid": { "color": "#E1E0D9" } }, "gridlineThickness": 1 }]
+      }
+    },
+    "columnChart": {
+      "*": { "valueAxis": [{ "gridlineColor": { "solid": { "color": "#E1E0D9" } } }] }
+    },
+    "barChart": {
+      "*": { "valueAxis": [{ "gridlineColor": { "solid": { "color": "#E1E0D9" } } }] }
+    }
+  }
+}

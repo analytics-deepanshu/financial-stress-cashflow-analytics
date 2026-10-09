@@ -1,0 +1,121 @@
+customer_id,age_band,city,city_tier,occupation_type,declared_monthly_income,financial_goal,has_active_loan
+C0001,41-50,Coimbatore,Tier 2,Salaried,96800.0,Emergency Fund,True
+C0002,31-40,Pune,Tier 1,Salaried,126700.0,Child Education,True
+C0003,26-30,Hyderabad,Tier 1,Salaried,93500.0,Travel,True
+C0004,21-25,Pune,Tier 1,Freelancer/Gig,37900.0,Vehicle Purchase,False
+C0005,41-50,Chandigarh,Tier 2,Salaried,166200.0,Retirement,False
+C0006,41-50,Bengaluru,Tier 1,Freelancer/Gig,38700.0,Home Down Payment,False
+C0007,41-50,Kolkata,Tier 1,Salaried,50000.0,Child Education,True
+C0008,31-40,Chennai,Tier 1,Salaried,146000.0,Emergency Fund,False
+C0009,26-30,Kolkata,Tier 1,Salaried,126600.0,Home Down Payment,True
+C0010,41-50,Jaipur,Tier 2,Salaried,51400.0,Debt Repayment,False
+C0011,31-40,Indore,Tier 2,Salaried,99000.0,Emergency Fund,True
+C0012,51-60,Mumbai,Tier 1,Freelancer/Gig,74200.0,Retirement,False
+C0013,26-30,Ahmedabad,Tier 1,Freelancer/Gig,76900.0,Wealth Creation,True
+C0014,31-40,Dehradun,Tier 3,Salaried,56500.0,Wealth Creation,True
+C0015,31-40,Delhi,Tier 1,Salaried,96800.0,Wealth Creation,True
+C0016,31-40,Pune,Tier 1,Salaried,48900.0,Wealth Creation,True
+C0017,26-30,Coimbatore,Tier 2,Salaried,123300.0,Debt Repayment,False
+C0018,21-25,Dehradun,Tier 3,Salaried,59200.0,Vehicle Purchase,False
+C0019,41-50,Patna,Tier 3,Freelancer/Gig,82600.0,Debt Repayment,False
+C0020,26-30,Nagpur,Tier 2,Salaried,90200.0,Travel,True
+C0021,18-22,Mumbai,Tier 1,Student,12100.0,Wealth Creation,False
+C0022,31-40,Ahmedabad,Tier 1,Salaried,50200.0,Debt Repayment,True
+C0023,31-40,Ahmedabad,Tier 1,Salaried,195900.0,Emergency Fund,True
+C0024,31-40,Kolkata,Tier 1,Salaried,53200.0,Child Education,True
+C0025,41-50,Bhopal,Tier 2,Salaried,71400.0,Wealth Creation,False
+C0026,41-50,Chennai,Tier 1,Salaried,54900.0,Debt Repayment,False
+C0027,26-30,Chennai,Tier 1,Salaried,145300.0,Emergency Fund,False
+C0028,18-22,Nagpur,Tier 2,Student,14700.0,Home Down Payment,False
+C0029,51-60,Mumbai,Tier 1,Salaried,85700.0,Debt Repayment,True
+C0030,21-25,Coimbatore,Tier 2,Freelancer/Gig,26900.0,Wealth Creation,False
+C0031,41-50,Bengaluru,Tier 1,Salaried,142900.0,Retirement,False
+C0032,31-40,Chennai,Tier 1,Salaried,116800.0,Retirement,False
+C0033,41-50,Bengaluru,Tier 1,Freelancer/Gig,97100.0,Emergency Fund,True
+C0034,41-50,Lucknow,Tier 2,Salaried,40300.0,Home Down Payment,True
+C0035,26-30,Mysuru,Tier 3,Salaried,72200.0,Emergency Fund,True
+C0036,21-25,Delhi,Tier 1,Salaried,61000.0,Travel,False
+C0037,41-50,Kolkata,Tier 1,Salaried,98000.0,Emergency Fund,False
+C0038,26-30,Bengaluru,Tier 1,Salaried,68400.0,Retirement,False
+C0039,21-25,Mumbai,Tier 1,Salaried,102900.0,Emergency Fund,False
+C0040,41-50,Ranchi,Tier 3,Salaried,38900.0,Vehicle Purchase,False
+C0041,41-50,Kochi,Tier 2,Salaried,95600.0,Child Education,True
+C0042,31-40,Kolkata,Tier 1,Salaried,179300.0,Wealth Creation,False
+C0043,26-30,Mumbai,Tier 1,Freelancer/Gig,73000.0,Debt Repayment,True
+C0044,26-30,Delhi,Tier 1,Salaried,62800.0,Debt Repayment,True
+C0045,26-30,Guwahati,Tier 3,Salaried,93500.0,Wealth Creation,False
+C0046,31-40,Coimbatore,Tier 2,Freelancer/Gig,87000.0,Debt Repayment,False
+C0047,41-50,Jaipur,Tier 2,Salaried,93100.0,Child Education,True
+C0048,21-25,Delhi,Tier 1,Freelancer/Gig,95300.0,Home Down Payment,False
+C0049,41-50,Dehradun,Tier 3,Salaried,105800.0,Vehicle Purchase,False
+C0050,21-25,Kolkata,Tier 1,Salaried,140600.0,Home Down Payment,False
+C0051,31-40,Jaipur,Tier 2,Salaried,73600.0,Wealth Creation,False
+C0052,18-22,Chennai,Tier 1,Student,16800.0,Emergency Fund,False
+C0053,26-30,Pune,Tier 1,Salaried,114100.0,Travel,False
+C0054,31-40,Mumbai,Tier 1,Salaried,185300.0,Retirement,True
+C0055,51-60,Bengaluru,Tier 1,Salaried,57700.0,Retirement,False
+C0056,51-60,Lucknow,Tier 2,Salaried,81000.0,Retirement,False
+C0057,51-60,Pune,Tier 1,Salaried,111800.0,Wealth Creation,True
+C0058,31-40,Coimbatore,Tier 2,Salaried,44400.0,Emergency Fund,False
+C0059,31-40,Pune,Tier 1,Freelancer/Gig,56600.0,Debt Repayment,False
+C0060,21-25,Guwahati,Tier 3,Salaried,100300.0,Vehicle Purchase,False
+C0061,18-22,Kolkata,Tier 1,Student,10400.0,Travel,False
+C0062,41-50,Bhopal,Tier 2,Salaried,43200.0,Home Down Payment,True
+C0063,41-50,Kolkata,Tier 1,Freelancer/Gig,47800.0,Emergency Fund,False
+C0064,31-40,Kolkata,Tier 1,Salaried,62500.0,Debt Repayment,False
+C0065,41-50,Lucknow,Tier 2,Freelancer/Gig,86800.0,Travel,False
+C0066,26-30,Jaipur,Tier 2,Salaried,51700.0,Child Education,True
+C0067,26-30,Kochi,Tier 2,Salaried,91200.0,Debt Repayment,True
+C0068,51-60,Pune,Tier 1,Freelancer/Gig,93900.0,Emergency Fund,False
+C0069,31-40,Jaipur,Tier 2,Freelancer/Gig,93100.0,Emergency Fund,True
+C0070,31-40,Mumbai,Tier 1,Salaried,147900.0,Travel,False
+C0071,26-30,Chandigarh,Tier 2,Salaried,114400.0,Travel,False
+C0072,21-25,Lucknow,Tier 2,Salaried,129900.0,Retirement,False
+C0073,26-30,Delhi,Tier 1,Salaried,59100.0,Retirement,True
+C0074,26-30,Jaipur,Tier 2,Salaried,98700.0,Home Down Payment,False
+C0075,26-30,Kochi,Tier 2,Salaried,32400.0,Debt Repayment,True
+C0076,31-40,Indore,Tier 2,Salaried,70600.0,Retirement,True
+C0077,26-30,Delhi,Tier 1,Salaried,102700.0,Debt Repayment,False
+C0078,41-50,Kolkata,Tier 1,Salaried,161800.0,Child Education,False
+C0079,18-22,Bengaluru,Tier 1,Student,13100.0,Travel,False
+C0080,41-50,Kolkata,Tier 1,Freelancer/Gig,36500.0,Debt Repayment,True
+C0081,31-40,Hyderabad,Tier 1,Salaried,100500.0,Wealth Creation,True
+C0082,26-30,Dehradun,Tier 3,Salaried,63500.0,Emergency Fund,False
+C0083,41-50,Chennai,Tier 1,Salaried,119600.0,Child Education,True
+C0084,31-40,Coimbatore,Tier 2,Salaried,94600.0,Debt Repayment,True
+C0085,41-50,Hyderabad,Tier 1,Salaried,49100.0,Debt Repayment,True
+C0086,21-25,Lucknow,Tier 2,Salaried,135000.0,Retirement,False
+C0087,31-40,Kolkata,Tier 1,Salaried,90500.0,Home Down Payment,True
+C0088,26-30,Guwahati,Tier 3,Salaried,46100.0,Child Education,True
+C0089,26-30,Nagpur,Tier 2,Salaried,42600.0,Travel,False
+C0090,31-40,Chandigarh,Tier 2,Salaried,98100.0,Debt Repayment,True
+C0091,31-40,Ahmedabad,Tier 1,Salaried,106800.0,Wealth Creation,True
+C0092,31-40,Bengaluru,Tier 1,Salaried,149100.0,Debt Repayment,False
+C0093,26-30,Kolkata,Tier 1,Salaried,52600.0,Travel,False
+C0094,26-30,Chennai,Tier 1,Salaried,63800.0,Vehicle Purchase,True
+C0095,21-25,Hyderabad,Tier 1,Freelancer/Gig,83900.0,Travel,True
+C0096,31-40,Indore,Tier 2,Salaried,117500.0,Wealth Creation,False
+C0097,18-22,Mysuru,Tier 3,Student,16100.0,Wealth Creation,False
+C0098,26-30,Pune,Tier 1,Salaried,97300.0,Retirement,True
+C0099,31-40,Patna,Tier 3,Salaried,55900.0,Debt Repayment,False
+C0100,41-50,Ahmedabad,Tier 1,Salaried,60900.0,Vehicle Purchase,False
+C0101,41-50,Bengaluru,Tier 1,Salaried,81200.0,Child Education,True
+C0102,41-50,Coimbatore,Tier 2,Salaried,160700.0,Retirement,True
+C0103,31-40,Bengaluru,Tier 1,Salaried,107500.0,Wealth Creation,False
+C0104,21-25,Jaipur,Tier 2,Salaried,115700.0,Child Education,True
+C0105,31-40,Ranchi,Tier 3,Salaried,97200.0,Retirement,True
+C0106,26-30,Patna,Tier 3,Salaried,114300.0,Retirement,False
+C0107,26-30,Udaipur,Tier 3,Salaried,83100.0,Vehicle Purchase,True
+C0108,26-30,Bengaluru,Tier 1,Salaried,42200.0,Travel,True
+C0109,21-25,Mysuru,Tier 3,Salaried,66700.0,Vehicle Purchase,False
+C0110,26-30,Indore,Tier 2,Salaried,120100.0,Child Education,False
+C0111,26-30,Mumbai,Tier 1,Salaried,48100.0,Retirement,True
+C0112,26-30,Indore,Tier 2,Salaried,63200.0,Wealth Creation,False
+C0113,26-30,Ahmedabad,Tier 1,Salaried,185100.0,Wealth Creation,False
+C0114,31-40,Bengaluru,Tier 1,Salaried,162600.0,Retirement,False
+C0115,41-50,Bengaluru,Tier 1,Salaried,48200.0,Debt Repayment,True
+C0116,26-30,Indore,Tier 2,Salaried,114000.0,Vehicle Purchase,False
+C0117,41-50,Indore,Tier 2,Salaried,118800.0,Child Education,True
+C0118,51-60,Kolkata,Tier 1,Salaried,90500.0,Debt Repayment,True
+C0119,21-25,Ahmedabad,Tier 1,Freelancer/Gig,39300.0,Emergency Fund,True
+C0120,26-30,Ahmedabad,Tier 1,Salaried,129800.0,Home Down Payment,True

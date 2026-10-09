@@ -1,0 +1,10 @@
+customer_id,occupation_type,city,stress_score,stress_band,top_stress_driver,current_balance,expected_net_cash_flow,expected_ending_balance,deficit_probability_pct,cashflow_risk_tier,recommended_action
+C0061,Student,Kolkata,57.3,Moderate,savings_margin,1775,-6023,-4248,100.0,High,Contact this week: offer payment-date realignment / short-term relief
+C0028,Student,Nagpur,53.4,Moderate,savings_margin,3249,-4779,-1530,100.0,High,Contact this week: offer payment-date realignment / short-term relief
+C0085,Salaried,Hyderabad,82.5,Critical,savings_margin,11098,-14070,-2973,96.6,High,Contact this week: offer payment-date realignment / short-term relief
+C0019,Freelancer/Gig,Patna,77.5,High,savings_margin,14316,-27538,-13222,95.4,High,Contact this week: offer payment-date realignment / short-term relief
+C0094,Salaried,Chennai,58.3,Moderate,fixed_obligations,13086,-1494,11592,95.1,High,Contact this week: offer payment-date realignment / short-term relief
+C0021,Student,Mumbai,53.8,Moderate,savings_margin,5188,-3456,1732,81.2,High,Contact this week: offer payment-date realignment / short-term relief
+C0076,Salaried,Indore,74.5,High,emergency_buffer,26394,-2005,24389,36.9,Medium,Proactive nudge: spending alert + budget plan
+C0079,Student,Bengaluru,54.9,Moderate,savings_margin,8811,-3204,5606,22.6,Medium,Monitor: low-balance alert
+C0080,Freelancer/Gig,Kolkata,46.6,Moderate,emergency_buffer,28477,-4518,23958,20.5,Medium,Monitor: low-balance alert
