@@ -269,4 +269,4 @@ Full list and future improvements: [`docs/PORTFOLIO_DOCUMENTATION.md`](docs/PORT
 
 ---
 
-*Author: [Your Name] · [LinkedIn] · [Email]*
+
